@@ -13,7 +13,7 @@ class Pokemon
   end
 
   def self.find(id, db)
-    binding.pry
+    #binding.pry
     db[:id]
   end
 end
