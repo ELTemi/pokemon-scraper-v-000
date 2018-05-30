@@ -8,6 +8,6 @@ class Pokemon
   end
 
   def save(name, type, database_connection)
-    
+
   end
 end
