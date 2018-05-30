@@ -12,6 +12,6 @@ class Pokemon
   end
 
   def self.find(name, type)
-    
+
   end
 end
