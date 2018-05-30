@@ -14,6 +14,6 @@ class Pokemon
 
   def self.find(id, db)
     #binding.pry
-    db[id:]
+    db[:id]
   end
 end
